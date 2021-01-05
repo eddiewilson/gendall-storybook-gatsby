@@ -1,9 +1,9 @@
 {
   "name": "gatsby-starter-material-ui",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby and Material UI",
+  "description": "Storybook to build Gendall components with Gatsby and Material UI",
   "version": "0.1.0",
-  "author": "Dominic Abela <djmabela@gmail.com>",
+  "author": "Gendall Dev <support@gendall.co.uk>",
   "dependencies": {
     "@material-ui/core": "^4.0.1",
     "@material-ui/icons": "^4.2.0",
@@ -48,11 +48,14 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dominicabela/gatsby-starter-material-ui"
+    "url": "https://github.com/gendall/gendall-storybook-gatsby"
   },
   "bugs": {
-    "url": "https://github.com/dominicabela/gatsby-starter-material-ui/issues"
+    "url": "https://github.com/gendall/gendall-storybook-gatsby/issues"
   }
 }
