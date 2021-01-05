@@ -1,7 +1,7 @@
 {
-  "name": "text",
+  "name": "text.gnd",
   "version": "0.1.0",
-  "description": "Text component wrapper containing MUI",
+  "description": "Gendall text component wrapper around MUI",
   "main": "Text.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,5 +25,6 @@
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "styled-components": "^5.2.1"
-  }
+  },
+  "gitHead": "1fe2d5e6c550345016179858ecb4e629426be895"
 }
