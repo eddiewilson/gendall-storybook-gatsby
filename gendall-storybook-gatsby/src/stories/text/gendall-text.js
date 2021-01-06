@@ -1,7 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import styled from "styled-components"
-import {withTheme} from "@material-ui/core/"
+import { withTheme } from "@material-ui/core"
 
 const TextWrapper = withTheme(styled.div`
   p {

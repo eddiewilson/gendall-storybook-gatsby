@@ -5,7 +5,7 @@ import Layout from '../components/layout'
 import SEO from '../components/seo'
 
 // Page Components
-import {Text} from "../stories/text/Text"
+import {Text} from "../stories/text.gnd/text.gnd"
 
 const SecondPage = () => {
 
